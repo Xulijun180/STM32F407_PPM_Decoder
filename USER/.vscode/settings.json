@@ -1,0 +1,13 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "stdio.h": "c",
+        "usart.h": "c",
+        "string.h": "c",
+        "stm32f4xx.h": "c",
+        "delay.h": "c",
+        "stdbool.h": "c",
+        "pwm_in.h": "c",
+        "ppmdecode.h": "c"
+    }
+}
